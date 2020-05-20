@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">todoboom</string>
+    <string name="here_is_the_text">here_is_the_text</string>
+    <string name="button">Button</string>
+    <string name="input_text">input_text</string>
+</resources>
